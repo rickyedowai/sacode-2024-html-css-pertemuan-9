@@ -26,4 +26,8 @@ Git push: Perintah yang digunakan untuk mentransfer perubahan file ke repository
 ```
 git push
 ```
-```
+
+##GitHub Pages 
+
+Lihat sa punya hasil coding melalui GitHub Pages berikut ini :
+https://rickyedowai.github.io/sacode-2024-html-css-pertemuan-9/
